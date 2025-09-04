@@ -1,6 +1,4 @@
 ## Hi there 👋 
 
-My name is Aleksander. I create automated trading strategies and tools supporting investment decisions.
-I have extensive experience in banking risk (ex-ECB, ex-Citi).
-I specialize in Python, data science and quantitative finance.
+My name is Aleksander. Data Scientist/Quantitative Analyst with 5+ years of experience applying statistical modelling, machine learning, and data engineering to risk management, trading, and research.
 You can reach me at: aleksander.tracz@yahoo.com / https://www.linkedin.com/in/aleksandertracz/.
